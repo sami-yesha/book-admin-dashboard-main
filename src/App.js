@@ -7,7 +7,7 @@ import UserManagement from "./components/Users";
 import Login from "./components/Login";
 import PrivateRoute from "./components/PrivateRoute";
 
-function App() {
+function App( {
   const [isLoggedIn, setIsLoggedIn] = useState(false);
 
   useEffect(() => {
