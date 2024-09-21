@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-admin-dashboard-main/static/css/main.75c00059.css",
+    "main.js": "/book-admin-dashboard-main/static/js/main.3f157c23.js",
+    "index.html": "/book-admin-dashboard-main/index.html",
+    "main.75c00059.css.map": "/book-admin-dashboard-main/static/css/main.75c00059.css.map",
+    "main.3f157c23.js.map": "/book-admin-dashboard-main/static/js/main.3f157c23.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c00059.css",
+    "static/js/main.3f157c23.js"
+  ]
+}
