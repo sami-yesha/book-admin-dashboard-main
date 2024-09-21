@@ -14,7 +14,7 @@ function Login({ setIsLoggedIn }) {
     try {
       const response = await axiosWithAuth.post("/auth/login", {
         email,
-        password,
+        password,       
       });
       localStorage.setItem("token", response.data.token);
       setIsLoggedIn(true); // Update the App state
